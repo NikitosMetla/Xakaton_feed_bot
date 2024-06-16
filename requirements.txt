@@ -1,0 +1,5 @@
+SQLAlchemy~=2.0.30
+python-dotenv~=1.0.1
+aiogram~=3.0.0b7
+pydantic~=1.10.16
+reportlab~=4.2.0
