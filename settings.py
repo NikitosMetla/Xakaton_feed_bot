@@ -6,7 +6,7 @@ from dotenv import load_dotenv, find_dotenv
 
 load_dotenv(find_dotenv("../.env"))
 bot_token = str(getenv("BOT_TOKEN"))
-bot_token = "7218464944:AAEs2TlJrxCGAJpGoIKeKFMDqRZIo9P_L7A"
+bot_token = ""
 print(bot_token)
 storage_bot = MemoryStorage()
 CALLBACK_SPAM_TIMING = 0
